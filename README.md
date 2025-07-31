@@ -1,10 +1,10 @@
-# 🔐 Password Cracker – SHA256 + Backtracking
+# Password Cracker – SHA256 + Backtracking
 
 This Python project implements a **recursive backtracking algorithm** to discover a 6-character password that matches a given SHA-256 hash under strict character rules.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 The program tries to find a password that produces the following hash:
 
